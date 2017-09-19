@@ -9,7 +9,7 @@ function [ gq ] = CreateGQScheme(N)
         switch N
             case 1 %For First Degree Polynomial
               gq.gsw(1) = 2; %weight; 
-              gq.xipts(1) = 0; %value of î;
+              gq.xipts(1) = 0; %value of Ã®;
             case 2 %2nd degree
               gq.gsw(1) = 1;  
               gq.gsw(2) = 1; 
