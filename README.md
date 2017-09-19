@@ -1,0 +1,2 @@
+# Model-heat-damage-on-human-skin
+A model is created in order to explore the behaviour and effects of high temperatures on human skin. The model is as realistic as possible since it includes a thermal shielding factor that cloths introduce and it examines all four different skin layers. The tissue burn model is also capable of determining the degree of burn/ skin damage. Finite element analysis with a non standardised mesh but of adoptive complexity and detail according to importance is used for the tissue burn model.    
