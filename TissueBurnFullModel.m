@@ -1,4 +1,4 @@
-function [Temperature, Gama]= TissueBurnFullModel(N,Ne,Texposed)
+function [Temperature, Gama]= TissueBurnFullModel ( N,Ne,Texposed )
     msh = OneDimLinearMeshGen(0,0.01,Ne);
     theta = 1;
     dt=0.005;
